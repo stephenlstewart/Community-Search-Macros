@@ -1,0 +1,1 @@
+( path-mime-type-tag:mobile-forensic-image OR path-mime-type-tag:mobile-forensic-backup OR boolean-custom-metadata:nuix.item.type.mobile-device:true ) AND mime-type:application/x-location
