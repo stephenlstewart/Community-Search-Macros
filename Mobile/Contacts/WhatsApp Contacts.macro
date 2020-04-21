@@ -1,0 +1,1 @@
+mime-type:application/x-contact AND properties:( "Application:APP_WHATSAPP" OR "Application:com.whatsapp" OR "Cellebrite Source:WhatsApp" OR "sync_source:com.whatsapp" )

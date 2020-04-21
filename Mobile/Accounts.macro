@@ -1,0 +1,1 @@
+( mime-type:application/x-database-table-row AND path-name:"Accounts" AND properties:"Application" ) OR mime-type:( application/x-user-account OR application/vnd.oxygen-skype-account )

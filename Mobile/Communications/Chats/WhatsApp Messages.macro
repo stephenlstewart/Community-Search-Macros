@@ -1,0 +1,1 @@
+mime-type:( application/vnd.whatsapp-android-message OR application/vnd.whatsapp-ios-message ) OR ( mime-type:application/x-chat-message AND ( from-domain:INSTANT_MESSAGE;whatsapp OR to-domain:INSTANT_MESSAGE;whatsapp OR cc-domain:INSTANT_MESSAGE;whatsapp OR bcc-domain:INSTANT_MESSAGE;whatsapp ) )

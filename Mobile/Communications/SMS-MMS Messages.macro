@@ -1,0 +1,1 @@
+( from-domain:PHONE;* OR to-domain:PHONE;* OR cc-domain:PHONE;* OR bcc-domain:PHONE;* ) AND mime-type:( application/vnd.aos-sms-message OR application/vnd.apple-ios-message OR application/vnd.google-android-sms-message OR application/vnd.oxygen-sms-message OR application/vnd.rim-blackberry-sms OR application/x-chat-message )

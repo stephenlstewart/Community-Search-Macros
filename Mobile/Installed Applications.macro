@@ -1,0 +1,1 @@
+(mime-type:application/x-database-table-row AND path-name:( "Installed Apps" OR "Installed application" )) OR mime-type:application/x-application

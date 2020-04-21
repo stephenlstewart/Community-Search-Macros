@@ -1,0 +1,1 @@
+mime-type:application/x-contact AND properties:( "Application:APP_FACEBOOK" OR "Cellebrite Source:Facebook" OR "sync_source:com.facebook" OR "Account Name:Facebook" )

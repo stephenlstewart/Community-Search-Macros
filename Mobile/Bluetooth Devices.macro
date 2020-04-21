@@ -1,0 +1,1 @@
+( mime-type:application/x-database-table-row AND ( path-name:( "Bluetooth device" OR "BT_CONNECTIONS" ) OR properties:"Cellebrite type:BluetoothDevice" ) ) OR  mime-type:application/x-network AND properties:"Connection Type:BLUETOOTH" 

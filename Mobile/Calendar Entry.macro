@@ -1,0 +1,1 @@
+mime-type:text/calendar-entry OR ( mime-type:application/x-database-table-row AND path-name:Calendar AND properties:( "Start Time" OR "Subject" ) )

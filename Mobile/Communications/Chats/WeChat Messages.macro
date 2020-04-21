@@ -1,0 +1,1 @@
+mime-type:application/x-chat-message AND ( from-domain:INSTANT_MESSAGE;WeChat OR to-domain:INSTANT_MESSAGE;WeChat OR cc-domain:INSTANT_MESSAGE;WeChat OR bcc-domain:INSTANT_MESSAGE;WeChat )

@@ -1,0 +1,1 @@
+mime-type:( application/vnd.aos-sms-message-thread OR application/vnd.apple-ios-message-conversation OR application/vnd.google-android-sms-thread OR application/vnd.oxygen-skype-sms-thread OR application/x-chat-conversation )
